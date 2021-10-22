@@ -1,0 +1,22 @@
+{
+  "name": "hello-hedera-world",
+  "version": "1.0.0",
+  "description": "Hello World app for Hedera Hashgraph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hedera",
+    "blockchain",
+    "dlt",
+    "distributed",
+    "ledger"
+  ],
+  "author": "MDW2",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.0.13",
+    "dotenv": "^8.2.0"
+  }
+}
